@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Take day of year and print dayOfMonth, Month
+# Take Nth day of year and print dayOfMonth, Month
 
 def dayofyear(day):
 	if (day < 31):
